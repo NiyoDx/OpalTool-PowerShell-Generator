@@ -1,4 +1,4 @@
-## 📥 Download OCP Tool PowerShell Script
+## 📥 Download
 
 Download the PowerShell scaffolding script directly from GitHub:
 
